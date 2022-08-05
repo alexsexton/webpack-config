@@ -1,0 +1,7 @@
+body {
+  background-color: aquamarine;
+  background-image: url('#{$image-path}/sail-plan.png');
+  background-position: 50%;
+  background-size: contain;
+  background-blend-mode: luminosity;
+}
